@@ -1,5 +1,4 @@
 # At World's Edge
-[insert logo here (and maybe background or something idk)]
 # User Documentation
 ## Controls
 ![](readme_images/readme_conrols_1.png)
@@ -13,6 +12,9 @@ The game has no mouse controls other than clicking on buttons to activate them
 ![](readme_images/ezgif-7-9cb5ebf1fc.gif)
 
 ## Objectives and Walkthrough
+https://github.com/user-attachments/assets/34c63e75-ef75-485f-a786-bad4128c6c0a
+
+
 In a world powered by an unstable machine, the fabric of reality is slowly being destroyed by the very thing that gives it life. The tears caused by the machine have led to 'glitches' in the world's environment, which range from inconvenient to outright dangerous for it's residents. 
 
 You play as Pilot, a rouge android who's mission is to restore an older machine, which runs much more sustainably. However, their quest is easier said than done, as the parts of the machine have been scattered throughout the world, and it will take them a journey of traversing the world and getting to know the people threatened by it's destruction, all while confronting their past, in order to save it. 
